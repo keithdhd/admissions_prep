@@ -1,0 +1,9 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'korb-regular','Helvetica',sans-serif !important;
+  letter-spacing: -1px;
+}
+
+.grid-container {
+    width: 400px;
+    margin: 0, auto;
+}
